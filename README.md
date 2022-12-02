@@ -12,3 +12,7 @@
 # Praktikum 5
 
 ![Screenshot (82)](https://user-images.githubusercontent.com/116083806/205287453-d3e1b996-f08b-4033-b609-7994212e4659.png)
+
+# Praktikum 6
+
+![Screenshot (83)](https://user-images.githubusercontent.com/116083806/205287828-8cce2112-88bd-4c7c-a906-86e466981c76.png)
